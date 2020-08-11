@@ -1,0 +1,13 @@
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.exe
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.deps.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.runtimeconfig.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.runtimeconfig.dev.json
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\bin\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.csprojAssemblyReference.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.AssemblyInfoInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.AssemblyInfo.cs
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.dll
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.pdb
+C:\Users\krisz\OneDrive\TECHCareers\Code\c-grade-translator-assignment-assignment\obj\Debug\netcoreapp3.1\c-grade-translator-assignment-assignment.genruntimeconfig.cache
