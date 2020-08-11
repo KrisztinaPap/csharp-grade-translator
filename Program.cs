@@ -20,7 +20,7 @@ namespace c_grade_translator_assignment_assignment
 
             // Declare variables
             int userInput = 1;
-            int grade = 0; 
+            double grade = 0; 
            
             
 
@@ -34,7 +34,7 @@ namespace c_grade_translator_assignment_assignment
                     Console.WriteLine("Enter a numeric grade value (an integer between 0 and 100): ");
                     try
                     {
-                        grade = int.Parse(Console.ReadLine());
+                        grade = double.Parse(Console.ReadLine());
                     }
                     catch (Exception ex)
                     {
