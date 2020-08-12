@@ -21,6 +21,7 @@ namespace c_grade_translator_assignment_assignment
             // Declare variables
             int userInput = 1;
             double grade = 0; 
+            string letterGrade = "";
            
             
 
@@ -47,48 +48,49 @@ namespace c_grade_translator_assignment_assignment
                     {
                         if ( grade >= 97  )
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an A+", grade);
+                            letterGrade = "A+";
                         }
                         else if ( grade >= 90)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an A", grade);
+                            letterGrade = "A";
                         }
                         else if ( grade >= 85)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an A-", grade);
+                            letterGrade = "A-";
                         }
                         else if ( grade >= 80)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an B+", grade);
+                            letterGrade = "B+";
                         }
                         else if ( grade >= 75)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an B", grade);
+                            letterGrade = "B";
                         }
                         else if ( grade >= 70)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an B-", grade);
+                            letterGrade = "B-";
                         }
                         else if ( grade >= 65)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an C+", grade);
+                            letterGrade = "C+";
                         }
                         else if ( grade >= 60)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an C", grade);
+                            letterGrade = "C";
                         }
                         else if ( grade >= 55)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an C-", grade);
+                            letterGrade = "C-";
                         }
                         else if ( grade >= 50)
                         {
-                            Console.WriteLine("A numeric grade {0} is the same as an D", grade);
+                            letterGrade = "D";
                         }
                         else
                         {
                             Console.WriteLine("A numeric grade {0} is the same as an F", grade);
                         }
+                        Console.WriteLine("A numeric grade {0} is the same as a {1}.", grade, letterGrade);
                     }
                     
                     else
