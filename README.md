@@ -8,6 +8,6 @@ Purpose: To practice comparison operators, data types, type conversion, and deci
                 
 Author: Krisztina Pap
 
-Date of Last Edit: Aug 11, 2020
+Date of Last Edit: Aug 12, 2020
 
 [Trello Project Board](https://trello.com/b/VvTEDLKV/c-grade-translator-practice-assignment)

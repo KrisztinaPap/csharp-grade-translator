@@ -12,7 +12,7 @@ namespace c_grade_translator_assignment_assignment
                 Purpose: To practice comparison operators, data types, type conversion, and decisions in C#.
                 
                 Author: Krisztina Pap
-                Date of Last Edit: Aug 11, 2020
+                Date of Last Edit: Aug 12, 2020
             */
 
             // Explain user how to use program
